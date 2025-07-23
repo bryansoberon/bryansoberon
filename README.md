@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Bernabe Bryan Soberón Quintana
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Aprendiendo+nuevas+tecnolog%C3%ADas;Desarrollador+en+formaci%C3%B3n;Olam+developeamos+???" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Aprendiendo+nuevas+tecnolog%C3%ADas;Desarrollador+en+formaci%C3%B3n" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
