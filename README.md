@@ -84,5 +84,3 @@ Soy un apasionado ingeniero de sistemas junior y creador de contenido educativo,
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-### ⭐ **¡No olvides darle estrella a los repos que te gusten!** ⭐
