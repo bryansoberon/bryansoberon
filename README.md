@@ -1,5 +1,10 @@
 # ¡Hola! 👋 Soy Bernabe Bryan Soberón Quintana
-"SOPHISTICATED ENVIRONMENT"
+<h3 align="center">
+  <span style="font-family: 'Georgia', serif; font-size: 24px; background: linear-gradient(90deg, #00D9FF, #00FFA2); -webkit-background-clip: text; color: transparent; text-shadow: 0px 0px 6px rgba(0, 217, 255, 0.5);">
+    "SOPHISTICATED ENVIRONMENT"
+  </span>
+</h3>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Aprendiendo+nuevas+tecnolog%C3%ADas;Desarrollador+en+formaci%C3%B3n" alt="Typing SVG" />
 </div>
@@ -70,13 +75,6 @@ Soy un apasionado ingeniero de sistemas junior y creador de contenido educativo,
 
 </div>
 
-## 🏆 Logros GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bryansoberon&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bryansoberon&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views" />
