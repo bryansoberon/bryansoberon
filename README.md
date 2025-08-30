@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Bernabe Bryan Soberón Quintana
+# ¡Hola! 👋 Soy Bryan
 <h3 align="center">
   <span style="font-family: 'Georgia', serif; font-size: 24px; background: linear-gradient(90deg, #00D9FF, #00FFA2); -webkit-background-clip: text; color: transparent; text-shadow: 0px 0px 6px rgba(0, 217, 255, 0.5);">
     "SOPHISTICATED ENVIRONMENT"
