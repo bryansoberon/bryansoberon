@@ -59,12 +59,6 @@ Soy un apasionado ingeniero de sistemas junior y creador de contenido educativo,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryansoberon&theme=radical&hide_border=true&background=0d1117" alt="bryansoberon" />
 </div>
 
-## 📈 Actividad Reciente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryansoberon&theme=react-dark&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph" />
-</div>
-
 
 ## 📫 Conecta Conmigo
 
