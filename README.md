@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un apasionado ingeniero de sistemas junior y creador de contenido educativo, comprometido con el aprendizaje continuo, la enseñanza tecnológica y el impacto social positivo.
+Soy un apasionado ingeniero de sistemas junior, comprometido con el aprendizaje continuo, la enseñanza tecnológica y el impacto social positivo.
 
 - 🔭 Actualmente trabajando en proyectos de **desarrollo web** y **aplicaciones desktop**
 - 🌱 Aprendiendo constantemente **nuevas tecnologías** y **mejores prácticas**
