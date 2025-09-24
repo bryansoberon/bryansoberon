@@ -73,9 +73,6 @@ Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el d
 
 </div>
 
----
-
----
 
 ---
 
