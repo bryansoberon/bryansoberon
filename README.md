@@ -77,11 +77,10 @@ Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el d
 
 ---
 
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bryansoberon&color=blueviolet&style=flat-square&label=VISITAS+AL+PERFIL" alt="Profile views" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-  
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
