@@ -46,30 +46,34 @@ Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el d
 
 </div>
 
+---
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryansoberon&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansoberon&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bryansoberon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansoberon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryansoberon&theme=radical&hide_border=true&background=0d1117" alt="bryansoberon" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryansoberon&theme=tokyonight&hide_border=true&background=0d1117" alt="bryansoberon" />
 </div>
 
+---
 
 ## 📫 Conecta Conmigo
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/933698031)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bryansoberon.7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryansoberon/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:briansoberonq@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BryanEseCu)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/933698031)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bryansoberon.7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bryansoberon/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:briansoberonq@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/BryanEseCu)
 
 </div>
 
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bryansoberon&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views" />
