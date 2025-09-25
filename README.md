@@ -16,9 +16,6 @@ Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el d
 - 🔭 Actualmente en proyectos de **desarrollo web** y **aplicaciones de escritorio**  
 - 🌱 Enfocado en **nuevas tecnologías** y **mejores prácticas de desarrollo**  
 - 👯 Interesado en colaborar en **proyectos open source**  
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ3d3NoOWo0cjd4eW03ejN1bzlzM3pjMnhvc2FlcjBsY2hiNmV3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="150" alt="Coding gif"/>
-</div>
 
 ---
 
@@ -91,4 +88,8 @@ Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el d
   <img src="https://komarev.com/ghpvc/?username=bryansoberon&color=blueviolet&style=flat-square&label=VISITAS+AL+PERFIL" alt="Profile views" />
   <br><br>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ3d3NoOWo0cjd4eW03ejN1bzlzM3pjMnhvc2FlcjBsY2hiNmV3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="150" alt="Coding gif"/>
 </div>
