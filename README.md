@@ -49,23 +49,6 @@ Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el d
 
 ---
 
-## 🚀 Proyectos Destacados  
-
-<div align="center">
-
-[![Repo1](https://img.shields.io/badge/Gestion--Academica-%2300C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryansoberon/gestion-academica)  
-*Sistema web para gestión de matrículas y notas.*
-
-[![Repo2](https://img.shields.io/badge/App--Tareas-%23F57C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryansoberon/app-tareas)  
-*Aplicación de escritorio para organización personal.*
-
-[![Repo3](https://img.shields.io/badge/Portfolio--Web-%230062FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryansoberon/portfolio)  
-*Portafolio personal hecho con React y Node.js.*
-
-</div>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
