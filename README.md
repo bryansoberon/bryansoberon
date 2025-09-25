@@ -5,7 +5,9 @@
 </div>
 
 ---
+
 <h1 align="center">👋 Hola, soy Bryan</h1>
+
 ## 🚀 Sobre mí
 <p align="center">
 Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el desarrollo de soluciones tecnológicas con impacto positivo.  
