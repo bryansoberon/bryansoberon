@@ -62,6 +62,11 @@ Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el d
 
 ---
 
+<div align="center">
+  <img src="https://github.com/bryansoberon/github-metrics/blob/main/github-metrics.svg" alt="Metrics" />
+</div>
+
+
 ## 📫 Conecta Conmigo
 
 <div align="center">
