@@ -52,6 +52,11 @@ Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el d
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+  <img src="https://github.com/bryansoberon/github-metrics/blob/main/github-metrics.svg" alt="Metrics" />
+</div>
+
+
+<div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bryansoberon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansoberon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
