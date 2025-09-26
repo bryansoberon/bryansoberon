@@ -1,3 +1,12 @@
+
+<h1 align="center">
+  ✨ Hola, soy Bryan ✨  
+</h1>
+<p align="center">
+  <sub><sup>Ingeniero de Sistemas Junior | Desarrollo Web & Desktop | Explorador de Tecnologías 🚀</sup></sub>
+</p>
+
+
 <div align="center">  
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ3ODY2MXR2aXh0aDN2cDIyeTl2NzNsMzNxMW02MTMyNHo1c2R2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="190" alt="Coding gif 2" style="display:inline-block; margin-right: 15px;"/>
   
@@ -6,7 +15,6 @@
 
 ---
 
-<h1 align="center">👋 Hola, soy Bryan</h1>
 
 ## 🚀 Sobre mí
 <p align="center">
