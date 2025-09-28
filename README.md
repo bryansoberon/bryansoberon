@@ -8,13 +8,6 @@
 
 ---
 
-<div align="center">  
-  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="190" alt="Coding gif 2" style="display:inline-block; margin-right: 15px;"/>
-  <img src="https://media0.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" width="300" alt="Coding gif 3" style="display:inline-block;"/>
-</div>
-
----
-
 ## 🚀 Sobre mí
 <p align="center">
 Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el desarrollo de soluciones tecnológicas con impacto positivo.  
@@ -54,6 +47,12 @@ Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el d
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
+---
+<div align="center">  
+  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="190" alt="Coding gif 2" style="display:inline-block; margin-right: 15px;"/>
+  <img src="https://media0.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" width="300" alt="Coding gif 3" style="display:inline-block;"/>
 </div>
 
 ---
