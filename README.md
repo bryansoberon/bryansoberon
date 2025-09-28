@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ Hola, soy Bryan ✨  
+   Hola, soy Bryan ✨  
 </h1>
 
 <div align="center">
