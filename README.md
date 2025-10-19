@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hola, soy Bryan 
+   Hola, soy Bryan
 </h1>
 
 <div align="center">
@@ -8,15 +8,18 @@
 
 ---
 
-## 🚀 Sobre mí
-<p align="center">
-Soy un ingeniero de sistemas junior, motivado por el aprendizaje continuo y el desarrollo de soluciones tecnológicas con impacto positivo.  
-</p>
+🚀 Sobre mí
+<p align="center"> Soy ingeniero de sistemas junior, con enfoque en el desarrollo de soluciones tecnológicas eficientes y orientadas a resultados. Me motiva el aprendizaje continuo y la mejora constante a través de la práctica y la colaboración. </p>
 
-- 🔭 Actualmente en proyectos de **desarrollo web** y **aplicaciones de escritorio**  
-- 🌱 Enfocado en **nuevas tecnologías** y **mejores prácticas de desarrollo**  
-- 👯 Interesado en colaborar en **proyectos open source**  
+🔭 Actualmente trabajando en proyectos de desarrollo web y aplicaciones de escritorio
 
+🌱 En constante crecimiento profesional, explorando nuevas tecnologías y buenas prácticas de arquitectura y desarrollo
+
+👯 Abierto a colaborar en proyectos open source y equipos que fomenten el aprendizaje compartido
+
+⚙️ Me interesan áreas como backend, bases de datos, automatización y arquitectura de software
+
+🎯 Mentalidad orientada a resolver problemas y construir software escalable y mantenible
 ---
 
 ## 💻 Stack Tecnológico
